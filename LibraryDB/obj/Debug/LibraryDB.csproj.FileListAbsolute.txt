@@ -1,0 +1,13 @@
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryTestBD.mdf
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryTestBD_log.ldf
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe.config
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.pdb
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csprojAssemblyReference.cache
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.AddForm.resources
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.Form1.resources
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.Properties.Resources.resources
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.GenerateResource.cache
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.CoreCompileInputs.cache
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.exe
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.pdb
