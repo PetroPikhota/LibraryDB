@@ -11,3 +11,5 @@ C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.Gene
 C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.CoreCompileInputs.cache
 C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.exe
 C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.pdb
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.DeleteForm.resources
+C:\Users\Petryk\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.Search.resources

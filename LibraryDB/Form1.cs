@@ -80,5 +80,17 @@ namespace LibraryDB
         {
 
         }
+
+        private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DeleteForm deleteForm = new DeleteForm();
+            deleteForm.Show();
+        }
+
+        private void searchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Search search = new Search();
+            search.Show();
+        }
     }
 }
